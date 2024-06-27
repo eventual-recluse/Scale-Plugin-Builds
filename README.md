@@ -22,7 +22,7 @@ A collection of .scl and .kbm files can be found in the [Sevish Tuning Pack.](ht
 
 If you wish to automate the ScaleSequence parameters in Ardour DAW, you should first go to Edit -> Preferences -> Performance,  and set Automatables to 'unlimited', then reload the plugin. This issue should be fixed in an upcoming version of Ardour.
 
-A full workflow for building these plugins from source with Github Actions can be found in full_workflow.txt. Used with the source repositories, this workflow will build more formats on more platforms than are available here.
+A full workflow for building these plugins from source with Github Actions can be found at [https://github.com/DISTRHO/dpf-cmake-action](https://github.com/DISTRHO/dpf-cmake-action). Used with the source repositories, this workflow will build more formats on more platforms than are available here.
 
 # Credits and attribution
 [DISTRHO Plugin Framework.](https://github.com/DISTRHO/DPF) Copyright (C) 2012-2024 Filipe Coelho <falktx@falktx.com>. ISC license.
@@ -33,7 +33,7 @@ A full workflow for building these plugins from source with Github Actions can b
 
 [Dear ImGui.](https://github.com/ocornut/imgui) Copyright (c) 2014-2024 Omar Cornut. MIT license.
 
-[DearWidgets](https://github.com/soufianekhiat/DearWidgets) for the XY slider widget. CC0-1.0 license.
+[DearWidgets](https://github.com/soufianekhiat/DearWidgets) for the XY slider and 3D slider widgets. CC0-1.0 license.
 
 [Bruno Ace Font](https://fonts.google.com/specimen/Bruno+Ace) designed by Astigmatic. [Open Font License.](https://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL)
 
@@ -42,3 +42,5 @@ A full workflow for building these plugins from source with Github Actions can b
 [Lekton Font](https://fonts.google.com/specimen/Lekton) designed by ISIA Urbino. [Open Font License.](https://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL)
 
 CLAP. Copyright 2014-2022 Alexandre Bique.
+
+[dpf-cmake-action.](https://github.com/DISTRHO/dpf-cmake-action) Copyright (C) 2022 Filipe Coelho <falktx@falktx.com>. ISC license.
